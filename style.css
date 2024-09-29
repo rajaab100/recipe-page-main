@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+.outfit{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.young-serif-regular {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+body{
+    background-color: hsl(0, 0%, 100%);
+    Font-size: 16px;
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: hsl(30, 10%, 34%);
+}
+
+.omletH1{
+    font-weight:700;
+    color:  hsl(24, 5%, 18%);
+    font-family: "Young Serif", serif;
+}
+.omletP{
+    color: hsl(30, 10%, 34%);
+}
+
+.divRose{
+    background-color: hsl(330, 100%, 98%);
+    
+}
+.preTime{
+    color: hsl(332, 51%, 32%);
+}
+.clrUl li{
+    color: hsl(332, 51%, 32%);
+}
+.clrUl li p{
+    color:hsl(30, 10%, 34%) ;
+}
+.ingredentH3{
+    color: hsl(14, 45%, 36%);
+    font-family: "Young Serif", serif;
+}
+
+.ingredentH3 li{
+    color: hsl(14, 45%, 36%);
+}
+
+.ingredentH3 li p {
+    color: hsl(30, 10%, 34%);
+}
+
+.h3Instraction{
+    color: hsl(14, 45%, 36%);
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+}
+
+.clrOl{
+    color: hsl(14, 45%, 36%);
+}
+
+.clrOl p{
+    color: hsl(30, 10%, 34%);
+}
+.kcal{
+    color: hsl(14, 45%, 36%);
+}
